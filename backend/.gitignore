@@ -93,3 +93,8 @@ wheels/
 
 # Windows specific files
 Thumbs.db
+
+# Add this to your .gitignore file
+__pycache__/
+*.py[cod]
+*$py.class
